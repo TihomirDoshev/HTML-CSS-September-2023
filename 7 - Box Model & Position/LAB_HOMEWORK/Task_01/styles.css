@@ -1,0 +1,12 @@
+p {
+  font-weight: bold;
+  background-color: coral;
+  padding-left: 20px;
+  padding-top: 30px;
+  padding-right: 40px;
+  padding-bottom: 50px;
+}
+/* 	Left – 20px
+	Top – 30px
+	Right – 40px
+	Bottom – 50px */
